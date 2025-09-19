@@ -69,16 +69,16 @@ Open terminal and try execute some kali linux commands
 <img width="1874" height="1003" alt="Screenshot 2025-09-19 134127" src="https://github.com/user-attachments/assets/8fe5da48-6116-4bea-8d9b-7995f469339c" />
 
 # INTEXT:
-<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/ed2be6fa-5f62-439a-ae09-608813e644ea" />
+<img width="1881" height="931" alt="Screenshot 2025-09-19 134231" src="https://github.com/user-attachments/assets/7c9fdcdf-a2cd-4e76-9837-5fff41c13fcf" />
 
 # LINK:
-<img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/27b906ee-1b12-4201-80c1-2c49c765f24e" />
+<img width="1893" height="1014" alt="image" src="https://github.com/user-attachments/assets/5d4f52ab-9107-48bc-b44a-cd0ad8f57e9e" />
 
 # CACHE:
-<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/2d925b92-eb81-47d2-88e0-fd537c42bfb0" />
+<img width="1888" height="1001" alt="image" src="https://github.com/user-attachments/assets/b10a11b7-9027-4ca6-81c3-ac7cdbbbb52d" />
 
 # EXT:
-<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/a39995bf-19c1-44e8-8543-11225e82e820" />
+<img width="1844" height="1011" alt="image" src="https://github.com/user-attachments/assets/d06dc593-d33a-4a0f-a029-72ae52d7106e" />
 
 # DNS Enumeration
 <img width="1919" height="977" alt="Screenshot 2025-09-04 104949" src="https://github.com/user-attachments/assets/a9e9d474-e587-4c7e-b6af-eb5dbf8a9d25" />
