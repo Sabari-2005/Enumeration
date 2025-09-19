@@ -8,7 +8,7 @@ To use Google for gathering information and perform enumeration of targets
 
 ### Step 1:
 
-Install kali linux either in partition or virtual box or in live mode
+Install kali linux either in partition or virtual box or in live mode.
 
 ### Step 2:
 
