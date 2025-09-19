@@ -63,7 +63,7 @@ Open terminal and try execute some kali linux commands
 <img width="1802" height="879" alt="Screenshot 2025-09-19 133930" src="https://github.com/user-attachments/assets/a5f6e730-712e-4589-bb95-2386c981a140" />
 
 # INTITLE:
-<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/43985195-a8a3-4ff9-8c5b-018a47057f8e" />
+<img width="1903" height="1018" alt="Screenshot 2025-09-19 133958" src="https://github.com/user-attachments/assets/c33a8f9a-29c5-4e24-9102-1708f3a857f9" />
 
 # FILETYPE:
 <img width="1874" height="1003" alt="Screenshot 2025-09-19 134127" src="https://github.com/user-attachments/assets/8fe5da48-6116-4bea-8d9b-7995f469339c" />
